@@ -1,0 +1,45 @@
+{
+  "iconImage" : "",
+  "description" : "",
+  "runInApp" : true,
+  "version" : "1.0.0",
+  "author" : {
+    "homepage" : null,
+    "name" : "psikent",
+    "email" : "ipsikent@gmail.com"
+  },
+  "intentInputTypes" : [
+
+  ],
+  "name" : "图标搜索",
+  "localizedNames" : {
+    "de" : "",
+    "pt" : "",
+    "zh" : "图标搜索",
+    "it" : "",
+    "ja" : "",
+    "ru" : "",
+    "en" : "",
+    "es" : "",
+    "fr" : ""
+  },
+  "remoteResource" : null,
+  "color" : "rgba(10, 132, 255, 1)",
+  "permissions" : null,
+  "entry" : "index.tsx",
+  "localizedDescriptions" : {
+    "es" : "",
+    "en" : "",
+    "de" : "",
+    "it" : "",
+    "fr" : "",
+    "zh" : "搜索 blackmatrix7\/ios_rule_script 仓库中的代理规则",
+    "ru" : "",
+    "ja" : "",
+    "pt" : ""
+  },
+  "contributors" : [
+
+  ],
+  "icon" : "photo.fill"
+}
